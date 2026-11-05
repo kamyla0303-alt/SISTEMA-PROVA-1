@@ -1,0 +1,7 @@
+Instruções:
+1. É necessario extrair os  ficheiros deste ZIP.
+2. Verifiquem a ortografia a coerência das perguntas 
+3. Se desejarem estilizem o css e html.
+4. Se a parte de colocar não estiver direcionando para as provas remova a primeira parte do html
+Deem o melhor de vocês, são capazes disso!
+5. Se 
